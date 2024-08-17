@@ -6,6 +6,8 @@ for i in range(2,n):
     items.append(result)
 print(items)
 
+print("hi")
+
 
 
 
